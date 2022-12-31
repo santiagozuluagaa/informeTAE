@@ -1,7 +1,0 @@
----
-title: "Informe - Análisis Descriptivo"
-author: "Santiago Zuluaga Ayala"
-date: "14/11/2020"
-output: html_document
----
-
